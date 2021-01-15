@@ -1,2 +1,2 @@
 feature-flag:
-  saveInventory: false
+  saveInventory: true
